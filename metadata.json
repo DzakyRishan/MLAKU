@@ -1,0 +1,6 @@
+{
+  "name": "MLAKU — Jelajahi Nusantara",
+  "description": "Platform kurasi perjalanan eksklusif dan slow luxury menjelajahi alam, budaya, dan suaka Nusantara Indonesia dengan kurator lokal dan asisten AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

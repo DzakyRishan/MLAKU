@@ -1,0 +1,46 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+*.tsbuildinfo
+next-env.d.ts
+
+# Secrets & environment
+.env*
+!.env.example
+firebase-applet-config.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+serviceAccount*.json
+*-service-account*.json
+*-adminsdk-*.json
+credentials*.json
+secrets/
+.firebase/
+.firebaserc
+firebase-debug.log*
+
+# Deploy tooling
+.vercel/
+
+# AI assistant / editor files (jangan ikut ke repo)
+.agents/
+.gemini/
+.claude/
+.cursor/
+.windsurf/
+.aider*
+.copilot/
+GEMINI.md
+AGENTS.md
+CLAUDE.md
+.idea/
+.vscode/
